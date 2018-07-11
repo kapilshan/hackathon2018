@@ -1,4 +1,10 @@
 # hackathon2018
 
-Read this!
-https://datascience.stackexchange.com/questions/12721/time-series-prediction-using-arima-vs-lstm
+Time Series Prediction Models:
+Naive Forecast
+Simple Average Forecast
+Moving Average Forecast
+Simple Exponential Smoothing Forecast
+Holt’s Linear Trend method
+Holt-Winters Method
+Seasonal ARIMA Forecast
